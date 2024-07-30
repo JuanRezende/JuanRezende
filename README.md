@@ -2,7 +2,7 @@
 
 ## Front-end developer and UX/UI Designer!
 
-- 👩‍💻 Improving at ReactJS | Typescript | Javascript | HTML | CSS
+- 👩‍💻 ReactJS | Typescript | Javascript | HTML | CSS
 - 🎓 Graduated in Systems Analysis and Development
 - 🚀 Nothing stops the inexorable march of time.
 
