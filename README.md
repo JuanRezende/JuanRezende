@@ -1,8 +1,8 @@
 ### Hi, i'm Juan! 👋
 
-## Front-end developer and UX/UI Designer!
+## Software developer
 
-- 👩‍💻 ReactJS | Typescript | Javascript | HTML | CSS
+- 👩‍💻 AI | UX/UI | ReactJS | Typescript | Javascript | HTML | CSS
 - 🎓 Graduated in Systems Analysis and Development
 - 🚀 Nothing stops the inexorable march of time.
 
